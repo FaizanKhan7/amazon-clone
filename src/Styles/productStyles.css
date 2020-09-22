@@ -1,0 +1,22 @@
+.Category_card {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.Catagory__title__descrpition {
+    margin: 10px;
+}
+
+.Catagory__title__descrpition>p {
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgray;
+    font-weight: 500;
+}
+
+.product__rows {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
